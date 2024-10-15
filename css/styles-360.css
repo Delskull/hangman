@@ -1,0 +1,64 @@
+@media (min-width: 360px) and (max-width: 767px) {
+  html {
+    height: 100%;
+  }
+  .mainBlock {
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .mainBlock__left-gallows_img {
+    width: 50%;
+  }
+  .mainBlock__left-gameName {
+    font-size: 15px;
+  }
+  .mainBlock__right {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .mainBlock__left-gallows {
+    border-bottom: 2px solid;
+  }
+  .mainBlock__right-hints {
+    max-width: 100%;
+  }
+  .mainBlock__right-array {
+    letter-spacing: 2px;
+  }
+  .gallows__head {
+    left: 36%;
+    top: 18%;
+    width: 15%;
+  }
+  .gallows__body {
+    left: 43%;
+    top: 40%;
+    width: 1%;
+  }
+  .gallows__left_arm {
+    left: 33%;
+    top: 41%;
+    width: 10%;
+  }
+  .gallows__right_arm {
+    left: 43%;
+    top: 41%;
+    width: 10%;
+  }
+  .gallows__left_leg {
+    left: 35%;
+    top: 77%;
+    width: 9%;
+  }
+  .gallows__right_leg {
+    left: 43%;
+    top: 77%;
+    width: 9%;
+  }
+  .modal__window {
+    width: 100%;
+    height: 37%;
+  }
+}

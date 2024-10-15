@@ -1,0 +1,35 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  .mainBlock__right-array {
+    letter-spacing: 5px;
+  }
+  .gallows__head {
+    left: 58%;
+    top: 24%;
+    width: 15%;
+  }
+  .gallows__body {
+    left: 65%;
+    top: 36%;
+    width: 1%;
+  }
+  .gallows__left_arm {
+    left: 56%;
+    top: 40%;
+    width: 10%;
+  }
+  .gallows__right_arm {
+    left: 65%;
+    top: 40%;
+    width: 10%;
+  }
+  .gallows__left_leg {
+    left: 57%;
+    top: 56%;
+    width: 9%;
+  }
+  .gallows__right_leg {
+    left: 65%;
+    top: 56%;
+    width: 9%;
+  }
+}

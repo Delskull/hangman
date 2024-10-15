@@ -1,0 +1,24 @@
+{
+  "name": "delskull-jsfepreschool2024q2",
+  "version": "1.0.0",
+  "description": "https://delskull.github.io/hangman/index.html\r https://rolling-scopes-school.github.io/delskull-JSFEPRESCHOOL2024Q2/hangman/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.9.0",
+    "prettier": "3.3.3"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "sourceType": "module"
+    }
+  }
+}

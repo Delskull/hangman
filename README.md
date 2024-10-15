@@ -1,1 +1,1 @@
-# hangman
+https://delskull.github.io/hangman/index.html
